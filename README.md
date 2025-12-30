@@ -1,2 +1,2 @@
 # sammy
-AI-powered scam detection using navy
+AI-powered scam detection using navy & openai
