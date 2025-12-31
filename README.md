@@ -1,2 +1,2 @@
 # sammy
-AI-powered scam detection using navy & openai
+AI-powered scam & inappropriate behaviour detection using navy & openai for discord servers
